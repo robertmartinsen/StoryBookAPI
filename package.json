@@ -1,0 +1,23 @@
+{
+  "name": "storybookapi",
+  "version": "1.0.0",
+  "description": "This is an API for the StoryBook app for iOS, which provides the books and it's contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertmartinsen/StoryBookAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertmartinsen/StoryBookAPI/issues"
+  },
+  "homepage": "https://github.com/robertmartinsen/StoryBookAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
